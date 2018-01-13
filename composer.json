@@ -1,0 +1,14 @@
+{
+    "name": "hailong/sylius-shop-api-test",
+    "description": "Test tool for Sylius shop APIs.",
+    "type": "project",
+    "require": {
+        "php-curl-class/php-curl-class": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Hailong Zhao",
+            "email": "hailongzh@hotmail.com"
+        }
+    ]
+}
